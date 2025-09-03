@@ -97,4 +97,4 @@ Feel free to fork the repository and contribute your own C projects or improveme
 <hr>
 
 ### License
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
