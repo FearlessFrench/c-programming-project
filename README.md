@@ -57,30 +57,26 @@ This repository contains a collection of C programming projects and exercises, d
 ### Getting Started
 To compile and run any of these projects, you'll need a C compiler like GCC.
 
-Clone the repository to your local machine:
-<pre>
-  
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-  
-</pre>
-Navigate to a specific project folder:
-<pre>
-  
-cd your-repository-name/01_variables
-  
-</pre>
-Compile the file:
-<pre>
-  
-gcc your_file_name.c -o your_program_name
-  
-</pre>
-Run the executable:
-<pre>
-  
-./your_program_name
-  
-</pre>
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+
+2. Navigate to a specific project folder:
+
+   ```bash
+   cd your-repository-name/01_variables
+
+3. Compile the file:
+
+   ```bash
+   gcc your_file_name.c -o your_program_name
+
+4. Run the executable:
+
+   ```bash
+   ./your_program_name
+
 <hr>
 
 ### Contributing
