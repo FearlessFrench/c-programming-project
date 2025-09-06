@@ -4,7 +4,7 @@ C is a general-purpose programming language created by Dennis Ritchie in 1972 at
 
 Learning C provides a strong foundation for understanding other programming languages and computer science concepts. Many modern languages borrow syntax and features from C, making it easier to learn them if you have a background in C. Additionally, C helps in understanding the underlying architecture of operating systems, such as memory management and pointers.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh4dDA1ejBoMDgxazQ3OGpvZzc4NGJjN2c4bjhlazMzdXA3Y21sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqV8uSb8ptxyo7Wyog/giphy.gif" alt="Windows XP"/>
+<img src="https://tenor.com/en-GB/view/suou-yuki-roshidere-sister-suou-yuki-gif-4836474114803463731.gif" alt="Suou Yuki Discussing"/>
 <hr>
 
 ### Table of Contents
